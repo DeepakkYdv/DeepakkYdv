@@ -1,133 +1,178 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deepakkydv.deepakkydv">
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Deepak+Yadav....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+# Deepak Yadav
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/deepakkrao/" title="LinkedIn Profile"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/bihariknight/" title="Instagram Profile"> Instagram</a></code>
-  <code><a href="https://www.youtube.com/@bihariknight" title="YouTube Profile"> YouTube</a></code>
-  <code><a href="https://www.facebook.com/bihariknight" title="Facebook Profile"> Facebook</a></code>
-  <code><a href="https://twitter.com/mavericrise" title="Twitter Profile"> Twitter</a></code>
-  <code><a href="https://leetcode.com/u/deepakkyadav/" title="LeetCode Profile"> LeetCode</a></code>
-  <code><a href="https://github.com/deepakkydv" title="GitHub Profile"> GitHub</a></code>
-</h5>
+### Software Developer · Next.js · React · TypeScript · Node.js · Go
+
+Building clean, scalable web applications and experimenting with AI-powered products.
+
 <br>
-<p align="center">
-  Hi, I'm Deepak Yadav, Software Developer
-  <br>
-  <br>
-  💻 I love writing code and learning new things about it
-  <br>
-  📚 I’m currently working on URL Shortener project
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/deepakkydv/urlShortner/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: deepkk.ydv27@gmail.com">deepkk.ydv27@gmail.com</a>
-</p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-</p>
-<hr>
+<a href="https://www.linkedin.com/in/deepakkrao">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/deepakkydv">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://leetcode.com/u/deepakkyadav/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+<a href="https://www.instagram.com/bihariknight/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.youtube.com/@bihariknight">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+</a>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=deepakkydv&theme=react&border=61dafb&hide_border=true" alt="deepakkydv" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=deepakkydv&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkydv&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkydv&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/DeepakkYdv/urlShortner" title="urlShortner"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DeepakkYdv&repo=urlShortner&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DeepakkYdv/Ochi-React" title="Ochi-React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DeepakkYdv&repo=Ochi-React&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/DeepakkYdv/thefaizalkhan" title="thefaizalkhan"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DeepakkYdv&repo=thefaizalkhan&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/DeepakkYdv/bugSnap-BackEnd" title="bugSnap-BackEnd"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DeepakkYdv&repo=bugSnap-BackEnd&theme=react&border_color=61dafb&border_radius=10"></a>
+
+---
+
+## 👋 About Me
+
+I'm a **Software Developer** focused on building modern full-stack applications with a strong interest in **AI, backend systems, and scalable web architecture**.
+
+* 💻 Working primarily with **Next.js, React, TypeScript and Node.js**
+* ⚡ Exploring **Go** for backend engineering
+* 🤖 Building and experimenting with **AI-powered applications**
+* 🧩 Interested in **system design, APIs, databases and performance**
+* 📚 Continuously improving my **DSA and software engineering fundamentals**
+* 🌱 Currently expanding into **backend engineering and AI**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" alt="Frontend technologies">
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,firebase,postgres,redis" alt="Backend technologies">
+
+### AI & Tools
+
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,linux,vscode" alt="Tools and technologies">
+
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Products
+
+Exploring practical AI applications using modern web technologies, APIs, RAG and automation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Applications
+
+Building production-oriented applications with Next.js, React, Node.js, databases and APIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+Learning deeper backend concepts including Go, caching, authentication, queues and scalable APIs.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Developer Growth
+
+Improving DSA, system design, architecture and engineering practices step by step.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Featured Projects
+
+| Project              | Description                                                           | Stack                    |
+| -------------------- | --------------------------------------------------------------------- | ------------------------ |
+| **URL Shortener**    | URL shortening application with redirect and management functionality | JavaScript · Node.js     |
+| **BugSnap**          | Backend-focused project for bug/report management workflows           | Node.js · Express        |
+| **Ochi React**       | Modern frontend implementation focused on UI and animations           | React · JavaScript       |
+| **AI Code Reviewer** | AI-assisted code analysis and review workflow                         | React · Node.js · AI API |
+
+> More projects are available on my [GitHub profile](https://github.com/deepakkydv?tab=repositories).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepakkydv&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Deepak's GitHub Stats">
+
+<img height="170" src="https://streak-stats.demolab.com/?user=deepakkydv&hide_border=true&theme=transparent" alt="Deepak's GitHub Streak">
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkydv&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages">
+
 </div>
-<br/><br/><br/><br/><br/><br/>
 
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+---
 
+## 📌 Currently Learning
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Next.js
+   ↓
+TypeScript
+   ↓
+Backend Architecture
+   ↓
+Node.js + Go
+   ↓
+Databases + Redis
+   ↓
+System Design
+   ↓
+AI Engineering
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 Find Me Online
 
+<div align="center">
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+**LinkedIn** → [linkedin.com/in/deepakkrao](https://www.linkedin.com/in/deepakkrao)
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+**GitHub** → [github.com/deepakkydv](https://github.com/deepakkydv)
 
--->
+**LeetCode** → [leetcode.com/u/deepakkyadav](https://leetcode.com/u/deepakkyadav/)
+
+**Instagram** → [@bihariknight](https://www.instagram.com/bihariknight/)
+
+**YouTube** → [@bihariknight](https://www.youtube.com/@bihariknight)
+
+**Email** → [deepkk.ydv27@gmail.com](mailto:deepkk.ydv27@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Ship. Repeat.
+
+<img src="https://komarev.com/ghpvc/?username=deepakkydv&style=flat-square&color=grey" alt="Profile views">
+
+</div>
